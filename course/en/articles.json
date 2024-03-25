@@ -1,0 +1,216 @@
+[
+  {
+    "title": " The Nature of Carbon/Organic Compounds  ",
+    "displayTitle": " The Nature of Carbon/Organic Compounds  ",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": 0,
+    "_ariaLevel": 0,
+    "_id": "649ccb62a133eb463cc49205",
+    "_parentId": "649ccb62a133eb463cc491f2",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "formative-assessment-1",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 6,
+      "_correctToPass": 59,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": true,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": false,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": true,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "The Nature of Carbon",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "649d00b4a133eb463cc6f8dd",
+    "_parentId": "649ccb62a133eb463cc491f2",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 3,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  }
+]
